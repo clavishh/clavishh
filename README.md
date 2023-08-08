@@ -9,7 +9,7 @@
 
 - [AQUA](https://discord.gg/aqua5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
 - [Rampage](https://discord.gg/rampage) *(FiveM Semi-Roleplay/Fragging server)* **Side Project**
-- [ZT Deathmatch]([https://discord.gg/aciddmmm](https://discord.gg/8FRtaAwQ9D) *(FiveM Deathmatch/Fragging server)* **Side Project**
+- [ZT Deathmatch](https://discord.gg/8FRtaAwQ9D) *(FiveM Deathmatch/Fragging server)* **Side Project**
 
 # Past Projects
 
