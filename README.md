@@ -15,5 +15,5 @@
 
 # How can I be contacted?
 
-- Contact me via my discord -> fakefeds
+- Contact me via discord -> [fakefeds](https://discord.gg/federalcom)
 
