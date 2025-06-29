@@ -1,24 +1,19 @@
-# Clavishh (Crystal Bar)
+# Federal AKA (clavish) (crystal bar)
 
-- Clavishh.
-- 16
-
-# Current Projects
-
-(Newest -> Oldest)
-
-- [AQUA](https://discord.gg/aqua5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
-- [Rampage](https://discord.gg/rampage) *(FiveM Semi-Roleplay/Fragging server)* **Side Project**
-- [ZT Deathmatch](https://discord.gg/8FRtaAwQ9D) *(FiveM Deathmatch/Fragging server)* **Side Project**
+- Federal
+- 18
 
 # Past Projects
 
 (Newest -> Oldest)
 
-- [Xenon](https://discord.gg/xenon5m) *(FiveM Semi-Roleplay/Fragging server)*
-- [Nova](https://discord.gg/nova5m) *(FiveM Semi-Roleplay/Fragging server)*
+- [AQUA](https://discord.gg/aqua5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
+- [NOVA](https://discord.gg/nova5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
+- [Rampage](https://discord.gg/rampage) *(FiveM Semi-Roleplay/Fragging server)* **Side Project**
+- [ZT Deathmatch](https://discord.gg/8FRtaAwQ9D) *(FiveM Deathmatch/Fragging server)* **Side Project**
+- [Xenon](https://discord.gg/xenon5m) *(FiveM Semi-Roleplay/Fragging server)* **Side Project**
 
 # How can I be contacted?
 
-- Contact me via my discord -> Clavishh.
+- Contact me via my discord -> fakefeds
 
