@@ -1,11 +1,12 @@
 # Federal AKA (clavish) (crystal bar)
 
 - Federal
-- 18
+- Manchester
+- 18 Years Old
 
 # Past Projects
 
-(no particular order)
+  (no particular order)
 
 - [AQUA](https://discord.gg/aqua5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
 - [NOVA](https://discord.gg/nova5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
