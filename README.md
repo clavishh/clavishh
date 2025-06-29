@@ -5,7 +5,7 @@
 
 # Past Projects
 
-(Newest -> Oldest)
+(no particular order)
 
 - [AQUA](https://discord.gg/aqua5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
 - [NOVA](https://discord.gg/nova5m) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
